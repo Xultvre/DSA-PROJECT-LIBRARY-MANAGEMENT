@@ -1,1 +1,122 @@
-
+{
+    "101": {
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "available": true
+    },
+    "102": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "available": true
+    },
+    "103": {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "available": true
+    },
+    "105": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "available": true
+    },
+    "106": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "available": true
+    },
+    "107": {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Historical",
+        "available": true
+    },
+    "108": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "available": true
+    },
+    "109": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Philosophy",
+        "available": true
+    },
+    "110": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "available": true
+    },
+    "111": {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "available": true
+    },
+    "112": {
+        "title": "Inferno",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "available": true
+    },
+    "113": {
+        "title": "Digital Fortress",
+        "author": "Dan Brown",
+        "genre": "Tech Thriller",
+        "available": true
+    },
+    "114": {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "available": true
+    },
+    "115": {
+        "title": "It",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "available": true
+    },
+    "116": {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Horror",
+        "available": true
+    },
+    "117": {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Horror",
+        "available": true
+    },
+    "118": {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "genre": "Science Fiction",
+        "available": true
+    },
+    "119": {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction",
+        "available": true
+    },
+    "120": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "available": true
+    },
+    "1010": {
+        "title": "niggaofalltime",
+        "author": "nigga",
+        "genre": "Black",
+        "available": true
+    }
+}
